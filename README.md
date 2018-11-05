@@ -10,3 +10,4 @@ SSH
 
 # Cool resources
 googleapis
+http://fontawesome.io/icons/#brand
