@@ -6,3 +6,7 @@ This is my portfolio. It uses AWS and ReactJS.
 Brew
 Github
 SSH
+
+
+# Cool resources
+googleapis
